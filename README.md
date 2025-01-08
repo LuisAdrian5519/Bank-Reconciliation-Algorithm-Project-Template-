@@ -1,5 +1,5 @@
 # Bank-Reconciliation-Algorithm
-This project temlate features a discrepancy search algorithm designed to identify inconsistencies between internal financial registers and bank declarations. It includes Python scripts optimized for financial data from Banco del Bajío, S.A. (BanBajío) and Banco Bilbao Vizcaya Argentaria (BBVA México, S.A.).
+This project template features a discrepancy search algorithm designed to identify inconsistencies between internal financial registers and bank declarations. It includes Python scripts optimized for financial data from Banco del Bajío, S.A. (BanBajío) and Banco Bilbao Vizcaya Argentaria (BBVA México, S.A.).
 
 ## Technology Stack  
 This project leverages a robust stack of Python libraries:  
